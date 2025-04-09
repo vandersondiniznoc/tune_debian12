@@ -40,15 +40,12 @@ Reinicie o sistema para garantir que os novos limites sejam aplicados:
 ```bash
 sudo reboot
 ```
-
+---
 ⚠️ Observações
 - A desativação do IPv6 é opcional. Edite o script e comente as linhas net.ipv6.conf.* se você utiliza IPv6.
 - O limite de arquivos (nofile) foi elevado para 1 milhão. Isso é importante para servidores que mantêm muitas conexões simultâneas.
 
-📂 Estrutura
-.
-├── tune_debian12.sh      # Script de tuning principal
-└── README.md             # Este guia
+---
 
 ## 🧑‍💻 Autor
 **Vanderson Diniz do Nascimento**  
