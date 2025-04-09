@@ -28,8 +28,8 @@ Este projeto fornece um script completo de otimização de performance e estabil
 ## 🚀 Instalação
 1. Clone este repositório:
 ```bash
-git clone https://github.com/vandersondiniznoc/debian-tuning.git
-cd debian-tuning
+git clone https://github.com/vandersondiniznoc/tune_debian12
+cd tune_debian12
 ```
 Dê permissão e execute o script:
 ```bash
